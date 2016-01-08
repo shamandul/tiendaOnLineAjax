@@ -59,10 +59,12 @@
 	    	<div class="col s12 m8">
 	    		<h3 class="center-align">Bienvenido a nuestra tienda</h3>
 	    		<p>
-	    			Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-	    			Alias quam reiciendis voluptatem, asperiores facere, 
-	    			ullam quibusdam fuga est consequuntur minima molestiae nisi 
-	    			temporibus culpa vitae autem dolore ab, perspiciatis tempore?
+	    			Esta aplicación es una demostración de la implementación de una tienda On-Line utilizando HTML5,
+	    			JQuery, Ajax, PHP, CSS y Materialize.
+	    		</p>
+	    		<p>
+	    			Todos los productos son marcas registradas y los precios son cantidades al azar.
+	    			No está completamente programada ya que esto fue parte de una prueba para una oferta de trabajo
 	    		</p>
 	    		
 	    	</div>
