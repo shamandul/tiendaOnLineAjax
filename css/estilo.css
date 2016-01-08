@@ -1,0 +1,29 @@
+
+/* clases */
+.background-head
+{
+	background-image: url(../img/acantilado.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+	
+}
+.borde
+{
+	border-style: solid;
+	border-width: 1px;
+}
+.borde-cabecera
+{
+	background: #536dfe;
+	border-style: solid;
+	border-width: 1px;
+	color: #fff;
+}
+.borde-fila
+{
+	background: #c5cae9;
+	border-style: solid;
+	border-width: 1px;
+	color: #000;
+}
